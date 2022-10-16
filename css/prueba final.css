@@ -1,0 +1,24 @@
+#estilo1
+{
+    background-color: black;
+border-style: inset;
+}
+
+h1 {
+    color: darkred;
+}
+
+#estilo2 {
+    background-color: rgb(28, 28, 58);
+    border-top-style: none;
+    border-top-style: dotted;
+    border-right-style:inset ;
+     border-left-style:dashed ;
+border-width: 6px;
+}
+
+h2 {
+    color: rebeccapurple;
+    font-style: initial;
+}
+
